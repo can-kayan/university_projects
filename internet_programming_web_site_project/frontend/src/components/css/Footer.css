@@ -1,0 +1,12 @@
+footer{
+    position: absolute;
+    bottom: 5px;
+    width: 100vw;
+    text-align: center;
+    z-index: -1000;
+}
+footer p{
+    color:#b8b8b8;
+  font-size: 13px;
+  font-family: Noto Sans KR,sans-serif;
+}

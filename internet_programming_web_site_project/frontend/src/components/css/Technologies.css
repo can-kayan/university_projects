@@ -1,0 +1,60 @@
+.technologies{
+    width: auto;
+    height:auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    bottom: 1.5rem;
+    margin-top: 1rem;
+    text-indent: 0;
+}
+.card{
+    width: 7rem;
+    height: 3rem;
+    background-color:  rgba(102, 102, 102, 0.3);
+    border-radius: 25px 1px;
+    padding: 5px;
+    text-align: center;
+    margin-top: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.technologies p {
+    flex-grow: 1;
+    flex-basis: 150px;
+    font-size: 13px;
+    width: 100%;
+}
+.card:hover {
+    border: 1px solid #06048a;
+    transform: perspective(preserve-3d);
+}
+
+
+.slider__controls {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: calc(100% + 1rem);
+    width: 100%;
+  }
+  .slider__controls .btn {
+    --size: 3rem;
+    align-items: center;
+    background-color: transparent;
+    border: 3px solid transparent;
+    border-radius: 100%;
+    display: flex;  padding: 0;
+    height: var(--size);
+    width: var(--size);
+  }
+  .slider__controls .btn:focus {
+    border-color: var(--color-focus);
+    outline: none;
+  }
+  .slider__controls .btn--previous > * {
+    transform: rotate(180deg);
+  }

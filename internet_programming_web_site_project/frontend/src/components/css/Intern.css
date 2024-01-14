@@ -1,0 +1,127 @@
+
+.exp{
+    position: relative;
+    width:45rem;
+    height: 100vh;
+     /*height:100vh; 
+    /* display: flex; */
+    /* flex-flow: row wrap; */
+    z-index: 1000;
+    gap: 0;
+    top: 0;
+    overflow:hidden;
+    overflow-y: auto;
+    margin-left: auto;
+    /* backdrop-filter: blur(0); */
+    
+}
+.exps{
+    margin-right: 1rem;
+    width: 100%;
+    background: rgba(102, 102, 102, 0.3);
+    backdrop-filter: blur(1.5rem);
+    /* border-top-left-radius: 40px; */
+    /* border-bottom-left-radius: 40px; */
+    border-bottom: 1px solid #00FFFF;
+ }
+.cards{
+    /* position: relative; */
+    width: 100%;
+    min-height: 10rem;
+    height: auto;
+    padding: 10px;
+    /* backdrop-filter: blur(5px); */
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* box-shadow: 0 0 45px rgba(0, 46, 252, 0.7); */
+}
+.cards p{
+    padding-top: 10px;
+}
+.cardType{
+    position: fixed;
+    top: 5px;
+    left:1rem ;
+    width: auto;
+    align-self: start;
+    color:rgb(0, 255, 255);
+    font-size: 13px;
+}
+.title{
+    position: relative;
+    
+    width: 50%;
+    height: 7rem;
+    border-right: 1px solid #00FFFF;
+    display: flex;
+    margin-top: 10px;
+     align-items: center;
+    /* justify-content: center;  */
+    /* text-align: center; */
+    padding-left: 1rem;
+    padding-right: 1rem;
+    color:rgb(0, 255, 255);
+    text-shadow: 0px 0px 5px #4f3df0,
+    0px 0px 5px #4f3df0,
+    0px 0px 5px #4f3df0,
+    0px 0px 5px #4f3df0,
+    0px 0px 5px #4f3df0,
+    0px 0px 5px #4f3df0,
+
+    0px 0px 5px #4f3df0;
+}
+.description{
+    width: 75%;
+    height: auto;
+    text-indent: 2rem;
+    margin-top: 10px;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
+.read-more{
+    color:rgb(0, 255, 255);
+    transition: 1s;
+    cursor: pointer;
+    font-size: 13px;
+}
+.date{
+    position: fixed;
+    top: 5px;
+    right: 2rem;
+    width: auto;
+    font-size: 12px;
+    color:rgb(0, 255, 255);
+    margin-bottom: 10rem;
+}
+/* .button{
+    width: 6rem;
+    position: relative;
+    display: flex;
+    /* margin-left: auto;
+    margin-right: auto; 
+   align-items: center;
+   justify-content: center;
+    border: 0;
+    /* z-index: 1000; 
+    border-radius: 25px;
+    border-end-end-radius: 0;
+    border-start-end-radius: 0;
+}
+.previous{
+    text-align: center;
+    margin-right: -10px;
+    padding: 10px;
+    margin-top: 35px;
+    cursor: pointer;
+    height: 45px;
+    border: 1px solid rgb(102, 102, 102, .3);
+    border-right: 0;
+    background-color: rgba(102, 102, 102, .3);;
+    backdrop-filter: blur(1.5rem);
+}
+.education{
+    margin-top: 235px;
+} */

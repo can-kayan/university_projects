@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Merienda:wght@900&family=Noto+Sans+KR:wght@700&family=Ubuntu:wght@400;700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  color:rgb(209, 208, 208);
+  font-size: 17px;
+  font-family: Noto Sans KR,sans-serif;
+  transition:  1s;
+}
+body {
+  background: linear-gradient(15deg,#06048a,#14121a,
+                                    #14121a,#14121a,#14121a,      
+                                    #14121a,#14121a,#14121a,
+                                    #14121a,#06048a);
+  overflow: hidden;
+  width: 100vw;
+  height: 100vh;
+}
