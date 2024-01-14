@@ -1,0 +1,12 @@
+C:\Users\canm2\source\repos\anket\anket\bin\Debug\anket.exe.config
+C:\Users\canm2\source\repos\anket\anket\bin\Debug\anket.exe
+C:\Users\canm2\source\repos\anket\anket\bin\Debug\anket.pdb
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.csproj.AssemblyReference.cache
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.anketIslemleri.resources
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.Form1.resources
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.Properties.Resources.resources
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.csproj.GenerateResource.cache
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.csproj.CoreCompileInputs.cache
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.exe
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.pdb
+C:\Users\canm2\source\repos\anket\anket\obj\Debug\anket.logs.resources
