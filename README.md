@@ -29,14 +29,14 @@ This repository contains various projects I realized during my university days.
 1. Clone this repository:
 
     ```bash
-    git clone https://github.com/kullanici-adiniz/universite-projeleri.git
-    cd universite-projeleri
+    git clone https://github.com/can-kayan/university_projects.git
+    cd university_projects
     ```
 
 2. Select the relevant project and navigate to the relevant directory:
 
     ```bash
-    cd proje-adı
+    cd project_name
     ```
 
 3. Run or review the project.
