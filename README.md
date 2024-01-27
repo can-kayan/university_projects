@@ -10,7 +10,7 @@ This repository contains various projects I realized during my university days.
 
 
 2. **Customer Tracking Application**
-    - Description: ** A customer tracking application developed with C#. It uses MSSQL database.
+    - ```Description:``` A customer tracking application developed with C#. It uses MSSQL database.
     - Language: ** C#, MSSQL
 
 
