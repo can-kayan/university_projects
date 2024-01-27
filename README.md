@@ -4,7 +4,7 @@ This repository contains various projects I realized during my university days.
 
 ## Projects
 
-1. **Survey Application**
+1. *Survey Application*
     - Description: ** A survey application developed in C#. It uses MSSQL database.
     - Language: ** C#, MSSQL
 
